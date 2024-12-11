@@ -42,7 +42,7 @@ And use tne postman for according to the APIs.
   "password": "any123456"
 }
 
-and fetch all tasks, add task, update task, delete task acoordingly.
+and fetch all tasks, add task, update task, delete task accordingly.
 
 
 
